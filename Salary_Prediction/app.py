@@ -1,15 +1,18 @@
-import numpy as np
-from flask import Flask, request, jsonify, render_template
 import pickle
 
+import numpy as np
+from flask import Flask, request, render_template
+
 app = Flask(__name__)
-model = pickle.load(open('model.pkl', 'rb'))
+model = pickle.load(open('salary_prediction_model.pkl', 'rb'))
+
 
 @app.route('/')
 def home():
     return render_template('index.html')
 
-@app.route('/predict',methods=['POST'])
+
+@app.route('/predict', methods=['POST'])
 def predict():
     '''
     For rendering results on HTML GUI
