@@ -1,4 +1,5 @@
-# Complete Artificial Intelligence & Python & Interview Practice.
+# Deployment :
+Implemented many different types of deployment Machine Learning Regression sample project.
 
 ## Follow Me:
  
