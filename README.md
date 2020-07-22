@@ -17,7 +17,7 @@ Implemented many different types of deployment Machine Learning Regression sampl
 
 https://github.com/RakeshKumar045?tab=repositories
 
-![Image github](../github_follow_pic/github.png "epidemiological model")
+ ![Image github](./github_follow_pic/github.png "epidemiological model")
 
 
 ### Contact me any time, If you are having any queries.
