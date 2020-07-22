@@ -25,7 +25,6 @@
 ![Image output](./output_photo/output.png "epidemiological model")
 
 
-
 ## Please Star me on GitHub 
 ## Please follow me on GitHub
 [<img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />](https://github.com/RakeshKumar045?tab=repositories)
