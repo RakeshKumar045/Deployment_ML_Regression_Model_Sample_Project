@@ -24,4 +24,12 @@
 ### Output :
 ![Image output](./output_photo/output.png "epidemiological model")
 
+
+## Please Star me on GitHub 
+## Please follow me on GitHub
+https://github.com/RakeshKumar045
+
+![Image github](./output_photo/github.png "epidemiological model")
+
+
 ## Thank you for reaching out to me on Github. 
