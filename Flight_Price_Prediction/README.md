@@ -9,6 +9,10 @@
 ![Rakesh's github stats](https://github-readme-stats.vercel.app/api?username=RakeshKumar045&show_icons=true)
 <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
 
+## Overview
+This is a Flask web app which predicts fare of Flight ticket.
+
+
 ### Library Installation :
 
 ```bash
@@ -36,9 +40,6 @@ Link: [https://flight-price-prediction-api.herokuapp.com/](https://flight-price-
 [![](https://i.imgur.com/R1g2wvC.png)](https://flight-price-prediction-api.herokuapp.com/)
 
 [![](https://i.imgur.com/p0aeL6c.png)](https://flight-price-prediction-api.herokuapp.com/)
-
-## Overview
-This is a Flask web app which predicts fare of Flight ticket.
 
 
 ## Deployement on Heroku
