@@ -11,9 +11,8 @@ Implemented many different types of deployment Machine Learning Regression sampl
 
 ## Please Star me on GitHub 
 ## Please follow me on GitHub
+https://github.com/RakeshKumar045
 
-
-### Input :
 ![Image Follow](./output_photo/StarFollow.jpeg "epidemiological model")
 
 
