@@ -30,8 +30,7 @@
 ## Please follow me on GitHub
 https://github.com/RakeshKumar045
 
-![Image github](./github_follow_pic/github.png "epidemiological model")
-
+![Image github](../github_follow_pic/github.png "epidemiological model")
 
 
 ## Thank you for reaching out to me on Github. 
