@@ -12,8 +12,7 @@ from flask import Flask, render_template, request
 from sklearn.preprocessing import StandardScaler
 
 app = Flask(__name__)
-model = pickle.load(open('random_forest_regression_model.pkl', 'rb'))
-
+model = pickle.load(open('car_predict_model.pkl', 'rb'))
 
 @app.route('/', methods=['GET'])
 def Home():
@@ -62,4 +61,4 @@ def predict():
 
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(port=2000, debug=True)
