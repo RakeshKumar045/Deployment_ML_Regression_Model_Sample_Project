@@ -18,7 +18,11 @@
 ### Predict the model
  - python app.py
  
- 
 
+### Input :
+![Image input](./output_photo/input.png "epidemiological model")
+
+### Output :
+![Image output](./output_photo/output.png "epidemiological model")
 
 ## Thank you for reaching out to me on Github. 
