@@ -14,7 +14,7 @@ jsonify==0.5
 lazy-object-proxy==1.4.3
 MarkupSafe==1.1.1
 mccabe==0.6.1
-numpy==1.19.0
+numpy==1.22.0
 pandas==1.0.5
 pylint==2.4.4
 python-dateutil==2.8.1
